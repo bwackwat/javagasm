@@ -1,0 +1,22 @@
+Slider Tanks Map
+$
+Border
+Location@145,120
+Width@430
+Height@341
+$
+Obstacle
+Location@406,167
+Width@63
+Height@168
+$
+Spawn Zone
+Location@183,233
+$
+Reload Zone
+Location@513,399
+$
+Health Zone
+Location@523,165
+$
+Done
