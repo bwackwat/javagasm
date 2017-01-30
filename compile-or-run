@@ -52,6 +52,7 @@ function build {
 	fi
 }
 
+build Asteroids
 build BubbleWorld
 build FlowersOfLife Main
 build Hopper Main
