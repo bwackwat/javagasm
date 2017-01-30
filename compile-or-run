@@ -6,7 +6,7 @@ main="$2"
 
 function build {
 	compiler="javac $1/src/*.java -d $1/bin/"
-	
+	mkdir -p $1/bin/
 
 	if [ $argc -eq 0 ]; then
 		echo "-------------------------------------"
